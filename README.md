@@ -91,7 +91,6 @@ Incluye:
 - El proceso paso a paso
 - Errores frecuentes
 - Relación con el análisis de datos
-- *Key concepts in A/B Testing* (en inglés)
 
 ---
 
