@@ -34,6 +34,7 @@ AB_Testing/
 ├── imagenes/
 │   └── opciones_A_B.png                  # Imagen comparativa de las dos versiones
 │
+├── presentacion_ab_testing.pdf           # Presentación completa de la píldora formativa
 ├── .gitignore
 └── README.md
 ```
