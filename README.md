@@ -1,4 +1,4 @@
-# 🧴 A/B Testing — La Redoma Rosa
+# 🧴 A/B Testing — La Redoma Rosa 🫧🧴✨
 
 Píldora formativa de **A/B Testing** desarrollada en el Bootcamp de [Factoría F5](https://factoriaf5.org/) de Data Analyst.
 
@@ -77,6 +77,21 @@ pip install -r requirements.txt
 
 1. Ejecuta primero `01_dataset/script_la_redoma_rosa_csv.ipynb` para generar el CSV
 2. Abre `02_practica_guiada/AB_Testing_La_Redoma_Rosa.ipynb` y ejecuta las celdas en orden
+
+
+---
+
+## 🪞 Presentación
+
+La píldora formativa completa está disponible en este repositorio en formato PDF.
+
+Incluye:
+- Qué es el A/B Testing y para qué sirve
+- Conceptos clave y glosario
+- El proceso paso a paso
+- Errores frecuentes
+- Relación con el análisis de datos
+- *Key concepts in A/B Testing* (en inglés)
 
 ---
 
