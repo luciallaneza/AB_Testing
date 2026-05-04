@@ -94,6 +94,12 @@ Incluye:
 
 ---
 
+## 🙏🏻🌺 Agradecimientos
+
+ Algunas de las imágenes utilizadas en este repositorio están basadas en materiales compartidos por [Francisco Jiménez](https://github.com/fcoxjp-art) y [Agata Szlufcik](https://github.com/AgataSzlufcik), compañeras del bootcamp. Gracias por vuestra generosidad, sin ella, La Redoma Rosa 🧴 y su empresaria 🐣 no serían lo mismo.
+
+---
+
 ## 🌱 Tecnologías
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
